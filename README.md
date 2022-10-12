@@ -3,11 +3,11 @@ When buying a house, buyers look at various factors other than just an appealing
 
 Work flow
 
-Import libraries
-Read and check the data
-Data exploration
-Data wrangling
-Feature engineering
-Data training
-Data preditions
-Results submission
+- Import libraries
+- Read and check the data
+- Data exploration
+- Data wrangling
+- Feature engineering
+- Data training
+- Data preditions
+- Results submission
